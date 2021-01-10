@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "befd00fe67e4710a7391240489204b15"
+build_time: [1610302252, 755745000]
+inputs:
+  "/Users/enriquetorderaramos/AndroidStudioProjects/test/pilarApp/ios/Runner/AppDelegate.swift": [1593612656, 0]

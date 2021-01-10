@@ -1,0 +1,6 @@
+framework module pdf_viewer_jk {
+  umbrella header "pdf_viewer_jk-umbrella.h"
+
+  export *
+  module * { export * }
+}
